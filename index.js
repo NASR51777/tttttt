@@ -18,7 +18,7 @@ client.user.setActivity('NASSBOTS SERVICE', { type: 'PLAYING' });
 const prefix = '+g';
 
 
-client.login(process.env.token)
+client.login("OTI0NDM2MjM2MDcwOTUyOTcw.YceiVQ.9F29mThS2IcmxzxmSl1xmrRxt-A")
      
 const { GiveawaysManager } = require('discord-giveaways');
 const { settings } = require('cluster');
